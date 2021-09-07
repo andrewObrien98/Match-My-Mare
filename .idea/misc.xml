@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/drawable/default_dot.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/drawable/drawer_item.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/drawable/selected_dot.xml" value="0.1" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/drawable/tab_selector.xml" value="0.28214285714285714" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/display_amount_of_matches.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/display_no_stallion_found.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/display_save_options_recycle_view.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/display_save_stallion.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/display_stallion_format.xml" value="0.264" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/display_stallion_view_pager_tab_layout.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_display_stallion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_fragment_container.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_fragment_creator.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_fragment_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_fragment_string_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_recycler_view_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_recycler_view_string_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_select_criteria.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/find_stallion_view_pager_tab_layout.xml" value="0.2" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/fragment1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/fragment2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/fragment3.xml" value="0.2" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/item_view_pager.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/login_fragment_container.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/login_main_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/login_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/login_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/main_fragment_container.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/practice_view_pager.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/sire.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/layout/view_pager_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/andre/Documents/jaaw/MyApplication/app/src/main/res/menu/main_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

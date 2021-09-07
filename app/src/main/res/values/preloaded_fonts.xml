@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/archivo_black</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/candal</item>
+        <item>@font/give_you_glory</item>
+    </array>
+</resources>
